@@ -8,7 +8,7 @@ import nltk
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
-import sentiment_pipeline  # ✅ Custom sentiment pipeline (must be implemented)
+import sentiment_pipeline  
 import webbrowser
 import threading
 
