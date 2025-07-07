@@ -1,0 +1,24 @@
+# Core Flask dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Machine Learning libraries
+scikit-learn==1.4.2
+nltk==3.8.1
+vaderSentiment==3.3.2
+
+# Data processing
+numpy==1.26.4
+pandas==2.2.2
+
+# Optional: for model persistence
+joblib==1.4.2
+
+# Production deployment (optional)
+gunicorn==21.2.0
+
+# Development tools (optional)
+python-dotenv==1.0.1
+
+
+langdetect
