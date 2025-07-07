@@ -139,6 +139,7 @@ python app.py
 # Using Docker:
 
 docker pull sriyapadhy/sentiment-analyzer:v1.0
+
 docker run sriyapadhy/sentiment-analyzer:v1.0
 
 ---
