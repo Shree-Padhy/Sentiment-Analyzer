@@ -136,7 +136,7 @@ python app.py
 
 ## 🚀 Deployment
 
-# Using Docker:
+### Using Docker:
 
 docker pull sriyapadhy/sentiment-analyzer:v1.0
 
